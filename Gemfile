@@ -5,6 +5,7 @@ gem 'sinatra'
 gem 'mustache',      '~>0.99.4'
 gem 'foreman'
 gem 'thin'
+gem 'sprockets'
 
 group :test do
   gem 'rack-test'

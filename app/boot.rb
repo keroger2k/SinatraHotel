@@ -8,3 +8,4 @@ require 'mustache/sinatra'
 
 require 'hotel'
 require 'app'
+require 'views/layout'
