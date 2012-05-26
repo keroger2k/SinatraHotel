@@ -1,3 +1,3 @@
 require File.expand_path(File.dirname(__FILE__) + '/app/boot')
 
-map('/')         { run Play::App }
+map('/')         { run Hotel::App }

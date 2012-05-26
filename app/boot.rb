@@ -6,5 +6,5 @@ require "bundler/setup"
 require 'sinatra/base'
 require 'mustache/sinatra'
 
-require 'play'
+require 'hotel'
 require 'app'
