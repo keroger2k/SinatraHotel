@@ -5,6 +5,7 @@ require "bundler/setup"
 
 require 'sinatra/base'
 require 'mustache/sinatra'
+require 'sass'
 
 require 'hotel'
 require 'app'

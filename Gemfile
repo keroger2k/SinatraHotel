@@ -6,6 +6,7 @@ gem 'mustache',      '~>0.99.4'
 gem 'foreman'
 gem 'thin'
 gem 'sprockets'
+gem 'sass',          '~>3.1'
 
 group :test do
   gem 'rack-test'

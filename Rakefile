@@ -9,3 +9,8 @@ desc "Start the server"
 task :start do
   Kernel.exec "bundle exec foreman start"
 end
+
+desc "Open an irb session preloaded with this library"
+task :console do
+  sh "irb -rubygems -r ./app/boot"
+end

@@ -1,6 +1,6 @@
 module Hotel
   module Views
-    class Index < Layout
+    class Index < MainLayout
     end
   end
 end

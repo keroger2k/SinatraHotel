@@ -1,7 +1,6 @@
 module Hotel
   module Views
-    class MainLayout < Mustache
-
+    class About < MainLayout
     end
   end
 end

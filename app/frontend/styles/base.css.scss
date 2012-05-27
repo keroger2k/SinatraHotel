@@ -1,0 +1,17 @@
+/* Variables */
+
+$purple: #ea36f5;
+$button-gray: #eee;
+
+/* GLOBAL AND LAYOUT */
+
+* {
+  -moz-box-sizing:border-box; /* Firefox */
+  -webkit-box-sizing:border-box; /* Safari */
+}
+
+body {
+  background: url('/images/background/noise-white.jpg') #E2E1DE repeat center center;
+  font-family: 'FontAwesome', 'Helvetica Neue', Helvetica, sans-serif;
+  padding-top: 60px;
+}
