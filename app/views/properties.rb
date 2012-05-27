@@ -1,6 +1,6 @@
 module Hotel
   module Views
-    class Properties < MainLayout
+    class Properties < Layout
     end
   end
 end

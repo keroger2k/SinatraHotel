@@ -1,6 +1,6 @@
 module Hotel
   module Views
-    class Staff < MainLayout
+    class Staff < Layout
     end
   end
 end

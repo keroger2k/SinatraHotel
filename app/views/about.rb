@@ -1,6 +1,6 @@
 module Hotel
   module Views
-    class About < MainLayout
+    class About < Layout
     end
   end
 end

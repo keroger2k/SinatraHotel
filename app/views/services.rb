@@ -1,6 +1,6 @@
 module Hotel
   module Views
-    class Services < MainLayout
+    class Services < Layout
     end
   end
 end

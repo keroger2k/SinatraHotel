@@ -1,6 +1,6 @@
 module Hotel
   module Views
-    class Contact < MainLayout
+    class Contact < Layout
     end
   end
 end
