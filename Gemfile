@@ -7,6 +7,7 @@ gem 'foreman'
 gem 'thin'
 gem 'sprockets'
 gem 'sass',          '~>3.1'
+gem 'coffee-script'
 
 group :test do
   gem 'rack-test'
