@@ -7,6 +7,7 @@ require 'coffee-script'
 require 'sinatra/base'
 require 'mustache/sinatra'
 require 'sass'
+require 'pg'
 
 require 'hotel'
 require 'app'

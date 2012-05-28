@@ -8,6 +8,9 @@ gem 'thin'
 gem 'sprockets'
 gem 'sass',          '~>3.1'
 gem 'coffee-script'
+gem 'sinatra-activerecord'
+gem 'activerecord'
+gem 'pg'
 
 group :test do
   gem 'rack-test'
